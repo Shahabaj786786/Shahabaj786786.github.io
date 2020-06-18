@@ -194,7 +194,7 @@ http://www.templatemo.com/tm-467-easy-profile
                     width: 100px;
                 }
                 
-                @media ( max-width: 380px) {
+                @media ( max-width: 420px) {
                     header {
                         padding-bottom: 0px;
                         padding-top: 30px;
